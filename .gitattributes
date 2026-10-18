@@ -3,3 +3,4 @@ vscode-extension-6.92.2.txt filter=lfs diff=lfs merge=lfs -text
 vscode-extension-6.92.2.zip filter=lfs diff=lfs merge=lfs -text
 vscode-extension-6.92.1.txt filter=lfs diff=lfs merge=lfs -text
 vscode-extension-6.92.1.zip filter=lfs diff=lfs merge=lfs -text
+ms-dotnettools.csharp-11.3.18@linux-x64.vsix filter=lfs diff=lfs merge=lfs -text
